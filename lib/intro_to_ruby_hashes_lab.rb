@@ -2,10 +2,8 @@ def new_hash
   hash = {}
 end
 
-def my_hash {
-    :name => "Elliott"
-    :age => 32
-  }
+def my_hash 
+  { :name => "Elliott" }
 end
 
 def pioneer
